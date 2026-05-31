@@ -3,7 +3,7 @@
 Dự án Automation Testing cho hệ thống **OrangeHRM** sử dụng Python + Selenium WebDriver.
 
 ## Mục tiêu
-- Áp dụng **Page Object Model (POM)** chuẩn doanh nghiệp
+- Áp dụng **Page Object Model (POM)** 
 - Tích hợp **PyTest + Allure Report**
 - Kiểm tra Database (MySQL)
 - Testing API với Auth Token
